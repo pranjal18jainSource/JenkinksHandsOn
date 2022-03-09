@@ -1,4 +1,4 @@
-pub;ic class Hello_Java
+public class Hello_Java
 {
   public static void main(String args[])
   {
